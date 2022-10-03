@@ -1,16 +1,15 @@
 # saff_login
 
-A new Flutter project.
+SAFF login page and punch in / out.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- support login with credential or biometrics (Touch ID or Face ID).
+- punch in / out based on user location (compared to SAFF location in Riyadh).
 
-A few resources to get you started if this is your first Flutter project:
+# Android Preview
+https://user-images.githubusercontent.com/29972487/193588230-271db63b-fad8-4c2f-aab5-221b0746d35f.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# iOS Preview
+https://user-images.githubusercontent.com/29972487/193588440-29d7b692-6a39-4fd7-97e7-00ae5a137e3a.mov
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
